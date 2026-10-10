@@ -74,7 +74,7 @@ The following reviews demonstrate the types of inputs the application can analyz
 Replace the URL below with your actual GitHub repository URL.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/Sharon1004/AI-Powered-Sentiment-Analysis-System.git
 ```
 
 ### 2. Navigate to the project directory
